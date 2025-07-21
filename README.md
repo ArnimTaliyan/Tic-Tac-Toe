@@ -37,11 +37,15 @@ This project is a beginner-friendly implementation demonstrating the use of:
 
 ---
 
-## Getting Started:
-- Compile the program:
-- Run the program:
+## Getting Started
 
+### Compile the Program
+```bash
+javac TicTacToe.java
 
+java TicTacToe
+```
+- Clone this repository and run the project in any Java IDE of your choice (such as IntelliJ IDEA, Eclipse, or VS Code).
 ---
 
 ## Author:
