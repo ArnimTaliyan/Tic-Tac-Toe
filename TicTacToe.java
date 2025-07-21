@@ -1,5 +1,3 @@
-package com.gfg.Project;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
