@@ -17,7 +17,7 @@ This project is a beginner-friendly implementation demonstrating the use of:
 - Player **X** always goes first.
 - Enter a number between **1-9** to select the position on the board.
 - The board positions are as follows:
-![Alt text](starting.png)
+![Alt text](preview/starting.png)
 - The game ends when:
   - A player wins by making a straight line (horizontal, vertical, or diagonal).
   - The board is full, resulting in a **draw**.
@@ -25,7 +25,7 @@ This project is a beginner-friendly implementation demonstrating the use of:
 ---
 
 ## Example Run:
-![Alt text](run.png)
+![Alt text](preview/run.png)
 
 
 ---
